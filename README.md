@@ -12,3 +12,4 @@
 [![G-Mail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:avoreshin@gmail.com)
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/avoreshin)
 <a href="https://profile.intra.42.fr/users/jlamonic"><img src="https://img.shields.io/badge/intra-000000?style=for-the-badge&logo=42" /></a>
+<img alt="surfi's visitors" src="https://komarev.com/ghpvc/?username=avoreshin&color=green&style=flat&label=visitors" /
