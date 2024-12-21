@@ -2,9 +2,6 @@
 ### ​✅✨ My project ✨​✅
 ## Web projects
 🚗 Garage - доска объявлений  👉 [deploy](https://avoreshin.github.io/drom3/)<br> 
-📺 Работа с API Youtube [deploy](https://avoreshin-clone-youtube-api.netlify.app/)<br> 
-📷 Landing-page Portfolio - [ 👉 Portfolio ](https://rolling-scopes-school.github.io/avoreshin-JSFEPRESCHOOL/portfolio/) <br>
-📋 Формы - React-hook-form, mui, dropbox [Github](https://github.com/avoreshin/Form-react-use-Form-test-)<br>
 
 ![Codewars](https://www.codewars.com/users/avoreshin/badges/large/?viewBox="0,0,495,40") <br>
 [![G-Mail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:avoreshin@gmail.com)
