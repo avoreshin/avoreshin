@@ -1,7 +1,6 @@
 
 ### ​✅✨ My project ✨​✅
 ## Web projects
-🚗 Garage - доска объявлений  👉 [deploy](https://avoreshin.github.io/drom3/)<br> 
 
 ![Codewars](https://www.codewars.com/users/avoreshin/badges/large/?viewBox="0,0,495,40") <br>
 [![G-Mail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:avoreshin@gmail.com)
